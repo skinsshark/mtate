@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,qBAAsB,CACtB,YACF,CAEA,IACE,4BAA6B,CAC7B,qBACF","file":"main.a5c28fff.chunk.css","sourcesContent":["body {\n  background-color: #000;\n  padding: 20px;\n}\n\ndiv {\n  width: calc((100vw - 42px)/7);\n  border: 1px solid #fff;\n}\n"]}
