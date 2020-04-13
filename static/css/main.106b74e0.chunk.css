@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{background-color:#000;padding:20px;margin:0;color:#fff;opacity:.8}.page-wrapper{border:1px solid #fff;display:flex;flex-wrap:wrap}.day-box,svg{width:calc((100vw - 42px)/7)!important}.day-box{height:calc((100vw - 42px)/7)!important;border:1px solid #fff}@media only screen and (max-width:767px){.day-box,svg{width:calc((100vw - 42px)/3)!important}.day-box{height:calc((100vw - 42px)/3)!important}}
+/*# sourceMappingURL=main.106b74e0.chunk.css.map */
